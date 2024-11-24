@@ -1,0 +1,1 @@
+# cevresel-katki-puanlama-sistemi-
